@@ -1,0 +1,6 @@
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\TestDryCleaning\obj\Debug\net8.0\TestDryCleaning.csproj.AssemblyReference.cache
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\TestDryCleaning\obj\Debug\net8.0\TestDryCleaning.csproj.ResolveComReference.cache
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\TestDryCleaning\obj\Debug\net8.0\TestDryCleaning.GeneratedMSBuildEditorConfig.editorconfig
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\TestDryCleaning\obj\Debug\net8.0\TestDryCleaning.AssemblyInfoInputs.cache
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\TestDryCleaning\obj\Debug\net8.0\TestDryCleaning.AssemblyInfo.cs
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\TestDryCleaning\obj\Debug\net8.0\TestDryCleaning.csproj.CoreCompileInputs.cache

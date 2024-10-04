@@ -1,0 +1,50 @@
+# Бинарные файлы
+/bin/
+/obj/
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# Файлы конфигурации
+/app.config
+/web.config
+
+# Файлы пользовательских настроек
+/user.config
+
+# Файлы отладки
+*.suo
+*.sln.docstates
+
+# Файлы Visual Studio
+.vs/
+.vscode/
+*.csproj
+*.vbproj
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.suo
+*.ntvs*
+*.nupkg
+
+# Файлы NuGet
+packages/
+*.nupkg
+
+# Файлы ReSharper
+*.resharper
+*_ReSharper.*
+
+# Файлы TeamCity
+_TeamCity*
+
+# Файлы Windows Forms
+*.resx
+*.resources
+
+# Другие файлы
+Thumbs.db
+ehthumbs.db
+Desktop.ini

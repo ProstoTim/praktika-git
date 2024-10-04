@@ -1,0 +1,13 @@
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\dry_cleaning\bin\Debug\dry_cleaning.exe.config
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\dry_cleaning\bin\Debug\dry_cleaning.exe
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\dry_cleaning\bin\Debug\dry_cleaning.pdb
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\dry_cleaning\obj\Debug\dry_cleaning.csproj.AssemblyReference.cache
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\dry_cleaning\obj\Debug\dry_cleaning.Login.resources
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\dry_cleaning\obj\Debug\dry_cleaning.Properties.Resources.resources
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\dry_cleaning\obj\Debug\dry_cleaning.csproj.GenerateResource.cache
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\dry_cleaning\obj\Debug\dry_cleaning.csproj.CoreCompileInputs.cache
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\dry_cleaning\obj\Debug\dry_cleaning.exe
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\dry_cleaning\obj\Debug\dry_cleaning.pdb
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\dry_cleaning\obj\Debug\dry_cleaning.Admin.resources
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\dry_cleaning\obj\Debug\dry_cleaning.Employee.resources
+H:\УП подготовка к демоэкзамену\Работа 4\dry_cleaning\dry_cleaning\obj\Debug\dry_cleaning.User.resources
